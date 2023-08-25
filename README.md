@@ -69,7 +69,7 @@ To start using the PWA-Text-Editor, follow the installation process and launch t
 [GitHub Repository](https://github.com/jaldhara21/PWA-Text-Editor)
 
 ## The Heroku deployed link:
-[The Heroku deployed link]()
+[The Heroku deployed link](https://damp-cove-53460-4f74448dcefe.herokuapp.com/)
 
 
 ## The following animation demonstrates the application's functionality:
